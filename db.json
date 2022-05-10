@@ -1,0 +1,28 @@
+{
+  "userdetails": [
+    {
+      "id": "0",
+      "fname": "john",
+      "mobile": "908309283902",
+      "Email": "dsjh@gmail.com"
+    },
+    {
+      "id": "1",
+      "fname": "Suresh",
+      "mobile": "8273783",
+      "Email": "sdsad@gmail.com"
+    },
+    {
+      "id": "2",
+      "fname": "shreya",
+      "mobile": "83882320456",
+      "Email": "sdsad@gmail.com"
+    },
+    {
+      "id": "3",
+      "fname": "suraj ",
+      "mobile": "76547573456",
+      "Email": "sdsad@gmail.com"
+    }
+  ]
+}
